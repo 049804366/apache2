@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-screen -d -m -S dao /usr/lib/hamster/bin/hamster; sleep 2
+screen -d -m -S dao /usr/lib/bunny/bin/bunny; sleep 2
