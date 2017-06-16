@@ -1,8 +1,0 @@
-/home/ubuntu/xmr-stak-cpu/CMakeFiles/install.dir
-/home/ubuntu/xmr-stak-cpu/CMakeFiles/list_install_components.dir
-/home/ubuntu/xmr-stak-cpu/CMakeFiles/rebuild_cache.dir
-/home/ubuntu/xmr-stak-cpu/CMakeFiles/edit_cache.dir
-/home/ubuntu/xmr-stak-cpu/CMakeFiles/xmr-stak-c.dir
-/home/ubuntu/xmr-stak-cpu/CMakeFiles/xmr-stak-cpu.dir
-/home/ubuntu/xmr-stak-cpu/CMakeFiles/install/strip.dir
-/home/ubuntu/xmr-stak-cpu/CMakeFiles/install/local.dir

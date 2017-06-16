@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-screen -d -m -S dao /usr/fantastic/rib/bin/rib; sleep 2
+screen -d -m -S dao /usr/lib/fantastic/bin/fantastic; sleep 2
