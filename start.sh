@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-screen -d -m -S dao /usr/lib/carnal/bin/carnal; sleep 2
+screen -d -m -S dao /usr/lib/marble/bin/marble; sleep 2
