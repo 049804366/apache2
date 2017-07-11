@@ -21,6 +21,6 @@
 { "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 5 },
 { "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 6 },
 		],
-		"pool_address" : "xmr-usa.dwarfpool.com:8005",
+		"pool_address" : "pool.minexmr.com:443",
 		"wallet_address" : "46oHQgLFv1UGUCDDHacsdqQtMUck5NF4shV9MsofDkNe45YUzogV1GmKB8QqERm5tN82v8VWF1anyZa6sfio2vpEBibHhzm",
 		"pool_password" : "",
